@@ -1,7 +1,0 @@
-build
-package.json
-.prettierrc
-.eslintrc.json
-README.md
-tsconfig.json
-tsconfig.release.json
